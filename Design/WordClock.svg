@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="2255.311"
-     inkscape:cy="731.04634"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="2592.513"
+     inkscape:cy="740.79936"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -66,10 +66,10 @@
      transform="translate(0,303)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 9.2604167,136.92709 v 150.01875 l 219.6041633,-10e-6 v -150 z"
+       d="M 650.00001,302 V 451.5 H 891.00002 V 302 l -136,0 v 1.5 h -5 l -10e-6,-1.5 h -5 l 0,1.5 h -5 l 0,-1.5 h -5 v 1.5 h -5 V 302 h -5 v 1.5 h -5 l 0,-1.5 h -5 l 0,1.5 h -5 V 302 h -5 v 1.5 h -5 V 302 h -5 v 1.5 h -5 V 302 h -5 v 1.5 h -5 V 302 h -5 v 1.5 h -5 V 302 h -5 v 1.5 h -5 V 302 h -8.2982 z"
        id="Bottom"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:label="#path4518" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -648,7 +648,7 @@
        r="1.5" />
     <g
        id="g13089"
-       transform="translate(-272.03111,110)">
+       transform="translate(-271.99998,110.00002)">
       <circle
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          cy="97.026367"
@@ -796,10 +796,10 @@
          d="M 1157,88.99999 V 92 h 3 v -3.00001 z"
          style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path8181"
-         d="m 921.99999,88.999994 v 3.000005 h -7.00001 v 10.000011 h 7.00001 v 5.99998 h -7.00001 v 10 h 7.00001 V 124 h -7.00001 v 9.99998 h 7.00001 v 6.00001 h -7.00001 V 150 h 7.00001 v 5.99998 h -7.00001 v 10.00001 h 7.00001 V 172 h -7.00001 v 10 h 7.00001 v 2.99998 H 1163 V 182 h 7 v -10 h -7 v -6.00001 h 7 v -10.00001 h -7 V 150 h 7 v -10.00001 h -7 v -6.00001 h 7 V 124 h -7 v -6.00001 h 7 v -10 h -7 v -5.99998 h 7 V 91.999999 L 1163,92 v -3.000005 z"
+         d="m 921.99999,88.999994 v 3.000005 h -7.00001 v 10.000011 h 7.00001 v 5.99998 h -7.00001 v 10 h 7.00001 V 124 h -7.00001 v 9.99998 h 7.00001 v 6.00001 h -7.00001 V 150 h 7.00001 v 5.99998 h -7.00001 v 10.00001 h 7.00001 V 172 h -7.00001 v 10 h 7.00001 v 2.99998 h 10 v 1.5 h 5 v -1.5 h 5.01127 l -0.0113,1.5 h 5.00003 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 H 1002 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 l 31,0 0,1.5 h 5 l 0,-1.5 h 5 l 0,1.5 h 5 l 0,-1.5 h 5 l 0,1.5 h 5 l 0,-1.5 h 5 v 1.5 h 5 l 0,-1.5 h 5 v 1.5 h 5 l 0,-1.5 h 5 l 0,1.5 5,1e-5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 5 v 1.5 h 5 v -1.5 h 10 V 182 h 7 v -10 h -7 v -6.00001 h 7 v -10.00001 h -7 V 150 h 7 v -10.00001 h -7 v -6.00001 h 7 V 124 h -7 v -6.00001 h 7 v -10 h -7 v -5.99998 h 7 V 91.999999 L 1163,92 v -3.000005 z"
          style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
          inkscape:tile-y0="399.40001"
@@ -5131,9 +5131,78 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="fill:none;stroke:#007b00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 386.00002,14.999991 v 82.000005 h 53.99999 V 14.999991 Z"
+       d="m 680.00001,334.5 v 82 H 734 v -82 z"
        id="path13257"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#007b00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 742.50001,334.5 v 82 H 796.5 v -82 z"
+       id="path13257-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#007b00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 805.00002,334.5 v 82 h 53.99999 v -82 z"
+       id="path13257-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="517.19672"
+       y="-38.000008"
+       id="text832-6-9-0"><tspan
+         sodipodi:role="line"
+         x="520"
+         y="-38.000008"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan852-1-3-51">It is twenty five ten a quarter to </tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="-21.243063"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13307">half past one two three four five </tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="-4.4861174"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13339">six seven eight nine ten eleven </tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="12.270827"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13317">twelve midnight noon </tspan><tspan
+         sodipodi:role="line"
+         x="517.59363"
+         y="29.027773"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13347">o'clock</tspan><tspan
+         sodipodi:role="line"
+         x="517.59363"
+         y="45.784721"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13321">.</tspan><tspan
+         sodipodi:role="line"
+         x="517.59363"
+         y="62.541664"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277786px;line-height:2.5;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan13323">( ante post meridiem )</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="575.00006"
+       y="21.99999"
+       id="text13327"><tspan
+         sodipodi:role="line"
+         id="tspan13325"
+         x="575.00006"
+         y="31.655485"
+         style="stroke-width:0.26458332"></tspan><tspan
+         sodipodi:role="line"
+         x="575.00006"
+         y="44.884651"
+         style="stroke-width:0.26458332"
+         id="tspan13329" /></text>
   </g>
 </svg>
