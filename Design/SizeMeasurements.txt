@@ -1,0 +1,5 @@
+Breadboard: 	w=5.4cm, l=8.2cm.
+Arduino: 	w=5.4cm, l=8.2cm.
+Button:		w=1.2cm, l=1.2cm.
+Potentio:	total height=2.0cm, diameter=1.3cm, w=1.3cm.
+Diode:		h=1.0cm, 0.3cm between legs.
