@@ -108,12 +108,3 @@ int returnMinute () {
 int returnSecond() {
   return t.sec;
 }
-
-
-boolean isItAM() {
-
-}
-
-boolean isItPM () {
-
-}
