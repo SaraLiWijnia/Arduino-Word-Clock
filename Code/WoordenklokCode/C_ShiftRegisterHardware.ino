@@ -1,3 +1,5 @@
+ // ZET HIER DE PINS VOOR ALLE SHIFT REGISTERS. 
+
 const int DS = 13; // data pin
 const int ST_CP = 12; // klok pin
 const int SH_CP = 11; // einde / begin signaal pin
