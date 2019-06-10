@@ -8,9 +8,9 @@ void setClockTime30(bool addition)
 {
   int offset = 30;
 
-  int seconds = returnSecond();
-  int minutes = returnMinute();
-  int hours = returnHour();
+  int seconds = getSecond();
+  int minutes = getMinute();
+  int hours = getHour();
 
   if (addition)
   {
@@ -63,26 +63,26 @@ void setClockTime30(bool addition)
 
 void setTime5MinutesForward() {
   for (int i = 0; i < 10; i++) {
-    setClockTime(true);
+    setClockTime30(true);
   }
 }
 
 void setTime5MinutesBackwards() {
   for (int i = 0; i < 10; i++) {
-    setClockTime(false);
+    setClockTime30(false);
   }
 }
 
 
-int returnHour () {
+int getHour () {
   return t.hour;
 }
 
 
-int returnMinute () {
+int getMinute () {
   return t.min;
 }
 
-int returnSecond() {
+int getSecond() {
   return t.sec;
 }

@@ -7,13 +7,13 @@ void buttonFunctiesTijd_Loop() {
   tijdSkippen_VooruitOfAchteruit_Button(); // tijd: vooruit of achteruit
 
   // 30 seconden 
-  if (buttonClicked(2) == true) {
+  if (button_Clicked(2) == true) {
     setClockTime30(negatiefOfPositief);
   } 
 
 
   // 5 min
-  if (buttonClicked(3) == true) {
+  if (button_Clicked(3) == true) {
     if (negatiefOfPositief == true ) {
       setTime5MinutesForward();
     }
@@ -24,13 +24,13 @@ void buttonFunctiesTijd_Loop() {
 }
 
 void tijdSkippen_VooruitOfAchteruit_Button () {
-  if (buttonClicked(1) == true )  {
+  if (button_Clicked(1) == true )  {
     if (negatiefOfPositief == false) {
       negatiefOfPositief = true;
-      doorgeven = 1;
+     // doorgeven = 1;
     } else {
       negatiefOfPositief = false;
-      doorgeven = -1;
+    //  doorgeven = -1;
     }
   }
 }

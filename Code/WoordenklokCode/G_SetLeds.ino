@@ -10,13 +10,13 @@ void woorden_Setup() {
 int geefUur() {
   int uur = getHour();
   if (uur > 12) {
-    uur = uur - 12
+    uur = uur - 12;
   }
   return uur;
 }
 
 void setUurKlok () { 
-  int uur = getUur();
+  int uur = geefUur();
 
   if (uur = 1 ) { 
     switchLeds[6] = true; // 1
@@ -34,43 +34,43 @@ if (uur = 3) {
 }
 
 if (uur = 4) { 
-  switchLeds[13] = false // 3
+  switchLeds[13] = false; // 3
   switchLeds[12] = true;
 }
 
-it is 4 o clock
-it is 4 past 4 0 clock
-it is 10 past 4 0 clock
-it is a quarter past 4 o clock
-it is twenty past 4 0 clock
-it is twenty five past 4 o clock
-it is 
+//it is 4 o clock
+//it is 4 past 4 0 clock
+//it is 10 past 4 0 clock
+//it is a quarter past 4 o clock
+//it is twenty past 4 0 clock
+//it is twenty five past 4 o clock
+//it is 
 
   
 }
 
-  false,// 6 - one
-  false, //7 - two
-
-  false, // 8 - ten
-  false, // 9 - a quarter
-  false,// 10 - to
-  false, // 11 - five
-  false, // 12 - four
-  false,  // 13 - three
-  false, // 14 - 
-  false, // 15 - 
-
-  false, // 16 - six
-  false, // 17 - seven
-  false, // 18 - eight
-  false, // 19 - nine
-  false, // 20 - ten
-  false, // 21 - eleven
-  false, // 22 - twelve
-  false, // 23 - midnight
+//  false,// 6 - one
+//  false, //7 - two
+//
+//  false, // 8 - ten
+//  false, // 9 - a quarter
+//  false,// 10 - to
+//  false, // 11 - five
+//  false, // 12 - four
+//  false,  // 13 - three
+//  false, // 14 - 
+//  false, // 15 - 
+//
+//  false, // 16 - six
+//  false, // 17 - seven
+//  false, // 18 - eight
+//  false, // 19 - nine
+//  false, // 20 - ten
+//  false, // 21 - eleven
+//  false, // 22 - twelve
+//  false, // 23 - midnight
 void setMinKlok () {
-  int minuut = returnMinute();
+  int minuut = getMinute();
 
   if (minuut > 5) {
     //  five over <hour> . am, pm
@@ -125,7 +125,7 @@ switchLeds[29] = true; // ante
 switchLeds[31] = true; // meridien
 switchLeds[30] = false; // post
   } else {
-switchLeds[29] = false // ante
+switchLeds[29] = false; // ante
 switchLeds[31] = true; // meridien
 switchLeds[30] = true; // post
   }
