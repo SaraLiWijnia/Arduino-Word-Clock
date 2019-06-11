@@ -7,16 +7,16 @@ const int BUTTON_STATE_PRESSED = 3;
 const int BUTTON_STATE_CHECK_RELEASED = 4;
 
 // Current state - array voor 3
-int button_State[4];
-int button_State_Length = 4;
+int button_State[3];
+int button_State_Length = 3;
 
 
 // Timer variables
-const int BUTTON_INTERVAL = 10; // 10 msec
-unsigned long button_Previous[4]; // array voor 3
+const int BUTTON_INTERVAL = 20; // 10 msec
+unsigned long button_Previous[3]; // array voor 3
 
 // Click variable - ARRAY voor 3
-boolean button_Click[4];
+boolean button_Click[3];
 
 
 
@@ -114,8 +114,6 @@ void button_Released_Exit() {
 // --- BUTTON_STATE_CHECK_PRESSED -----------
 void button_Check_Pressed_Entry(int i ) { // meegeven welke button hier.
   button_Previous[i] = millis();
-  Serial.print("Pressed Entry Dit is button: ");
-  Serial.println(i);
 }
 void button_Check_Pressed_Do() {
 }
@@ -134,8 +132,6 @@ void button_Pressed_Exit() {
 // --- BUTTON_STATE_CHECK_RELEASED -----------
 void button_Check_Released_Entry(int i) {
   button_Previous[i] = millis();
-    Serial.print("Released Entry Dit is button: ");
-  Serial.println(i);
 }
 void button_Check_Released_Do() {
 }
