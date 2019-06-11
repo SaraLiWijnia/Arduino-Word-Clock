@@ -4,10 +4,10 @@
 
 int button_Pins[4] = {A1,  // A1 = off, on
                       A2, // forward - backward
-                      A3, // 30 seconden
-                      A4 // 5 minuten. 
+                      A0 // 30 seconden
+                     // A4 // 5 minuten. 
                      };
-int button_Pins_Length = 4;
+int button_Pins_Length = 3;
 
 // --- Setup -------------------
 

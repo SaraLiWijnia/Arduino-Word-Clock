@@ -26,6 +26,9 @@ void setup() {
   rtc.setTime(13, 57, 00);
    rtc.setDate(28, 4, 2019);
 
+   
+setShiftRegisterPattern(a);
+
 }
 
 void loop() {
@@ -42,11 +45,14 @@ void loop() {
         vorigeTijd2 = millis();
         
       }
-      
 
-//buttonFunctiesTijd_Loop();
+button_Loop();
 
-    //  button_Loop();
+buttonFunctiesTijdSkippen_Loop();
+buttonFuncties_Vooruit_Achteruit();
+
+
+    //  button_Loop();c
     //for (int i = 0; i < 4; i++ ) {
     //  button_Clicked(i);
     //}
